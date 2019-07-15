@@ -33,18 +33,27 @@ Bitsamp: https://drive.google.com/open?id=11b3sudT6JVl18SL7jCf_9_Te1tz5X1PF
 
 Bitmax: https://drive.google.com/open?id=118WoOs338BV2gRZZZaoNZ54IraWnPCwj
 
+## 10 years challenge Image Data
+The hastag '10 years challenge' and links to 100000 images with some useful features were extracted from these images. This can be used to train neural nets to find out what you could look like in 10 years lol! A script for reshaping the 10yearschallenge data titled 10years_reshaper.py  is also available in this repo.
 
-## Willyoupressthebutton.json
-Dataset Description:
-This is question data from the site: https://www.willyoupressthebutton.com/ along with the answers. This can be used in a binary classifier to determine how a given set of people would react in certain situations.
-
-Link to File: 
+Link to file:
 
 https://drive.google.com/open?id=152d5e1Ub54TF1aeB4zJ4Red3NYhk2OHa
 
 
+## Willyoupressthebutton.json
+Dataset Description:
+This is question data from the site: https://www.willyoupressthebutton.com/ along with the answers. This can be used in a binary classifier to determine how a given set of people would react in certain situations. A notebook titled WYPTB.ipynb details the code used to scrape this
+
+Link to Files: 
+
+https://drive.google.com/open?id=152d5e1Ub54TF1aeB4zJ4Red3NYhk2OHa
+
+https://drive.google.com/open?id=1BSOt9w1oibtDAVLD6AsAGhqK1lK0Z44O
+
+
 ## Willyoupressthebutton comment data
-Dataset Description: This dataset contains comment data for the questions in the above dataset, they can be joined on ID to the question and queried for more insight.
+Dataset Description: This dataset contains comment data for the questions in the above dataset, they can be joined on ID to the question and queried for more insight. A notebook titled WYPTB_comments.ipynb details the code for scraping the comment data
 
 Link to Files: 
 
