@@ -3,6 +3,7 @@ This is a repo containing datasets that I have personally taken time to scrape o
 
 ## Cryptocurrency Trading Data
 Dataset Description: This dataset contain One minute Cryptocurrency trading data from Jan 2019 to June 2019 from six major exchanges: BINANCE,OKEX,CEX,KRAKEN,BITSTAMP,BITMAX.
+
 Link to files:
 
 Binance: https://drive.google.com/open?id=1-Vn7VS4Q-lTqozriV4OXCWuo3Rvj09D4 
@@ -36,7 +37,10 @@ Bitmax: https://drive.google.com/open?id=118WoOs338BV2gRZZZaoNZ54IraWnPCwj
 ## Willyoupressthebutton.json
 Dataset Description:
 This is question data from the site: https://www.willyoupressthebutton.com/ along with the answers. This can be used in a binary classifier to determine how a given set of people would react in certain situations.
-Link to File: https://drive.google.com/open?id=152d5e1Ub54TF1aeB4zJ4Red3NYhk2OHa
+
+Link to File: 
+
+https://drive.google.com/open?id=152d5e1Ub54TF1aeB4zJ4Red3NYhk2OHa
 
 
 ## Willyoupressthebutton comment data
