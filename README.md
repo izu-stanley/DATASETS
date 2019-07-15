@@ -4,11 +4,32 @@ This is a repo containing datasets that I have personally taken time to scrape o
 ## Cryptocurrency Trading Data
 Dataset Description: This dataset contain One minute Cryptocurrency trading data from Jan 2019 to June 2019 from six major exchanges: BINANCE,OKEX,CEX,KRAKEN,BITSTAMP,BITMAX.
 Link to files:
-Binance: https://drive.google.com/open?id=1-Vn7VS4Q-lTqozriV4OXCWuo3Rvj09D4
+
+Binance: https://drive.google.com/open?id=1-Vn7VS4Q-lTqozriV4OXCWuo3Rvj09D4 
+
+
+
+
 Okex: https://drive.google.com/open?id=1-jFbAgzv2OfjfvexmL_H5GMlo-85JNvL
+
+
+
+
 Cex: https://drive.google.com/open?id=10V3i0S9OcMi5ZTl9hxiUm0d5t2MKgrqM
+
+
+
+
 Kraken: https://drive.google.com/open?id=1-jlaj8fczcr3JOieWSJ1jODMoO_w3qe-
+
+
+
+
 Bitsamp: https://drive.google.com/open?id=11b3sudT6JVl18SL7jCf_9_Te1tz5X1PF
+
+
+
+
 Bitmax: https://drive.google.com/open?id=118WoOs338BV2gRZZZaoNZ54IraWnPCwj
 
 
