@@ -34,7 +34,7 @@ Bitsamp: https://drive.google.com/open?id=11b3sudT6JVl18SL7jCf_9_Te1tz5X1PF
 Bitmax: https://drive.google.com/open?id=118WoOs338BV2gRZZZaoNZ54IraWnPCwj
 
 ## 10 years challenge Image Data
-The hastag '10 years challenge' and links to 100000 images with some useful features were extracted from these images. This can be used to train neural nets to find out what you could look like in 10 years lol! A script for reshaping the 10yearschallenge data titled 10years_reshaper.py  is also available in this repo
+The hastag '10 years challenge' and links to 100000 images with some useful features were extracted from these images. This can be used to train neural nets to find out what you could look like in 10 years lol! A script for reshaping the 10yearschallenge data titled 10years_reshaper.py  is also available in this repo.
 
 Link to file:
 
