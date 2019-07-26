@@ -53,7 +53,7 @@ https://drive.google.com/open?id=1BSOt9w1oibtDAVLD6AsAGhqK1lK0Z44O
 
 
 ## Willyoupressthebutton comment data
-Dataset Description: This dataset contains comment data for the questions in the above dataset, they can be joined on ID to the question and queried for more insight. A notebook titled WYPTB_comments.ipynb details the code for scraping the comment data
+Dataset Description: This dataset contains comment data for the questions in the above dataset, they can be joined on ID to the question and queried for more insight. A notebook titled WYPTB_comments.ipynb details the code for scraping the comment data.
 
 Link to Files: 
 
